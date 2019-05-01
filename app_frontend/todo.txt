@@ -1,0 +1,20 @@
+front end
+
+option to switch between last 4 weeks or last 3 months for header?
+make home button more obvious from any screen?
+
+live demo option
+
+
+ios select file has problem?! only works over https, seems fine?!
+
+
+out of date token needs to be communicated for refresh.
+
+
+
+dont like my intro page, simplify.
+Should understand exactly what im trying to do in a glance, it isn't feeling that good right now.
+
+
+

@@ -1,0 +1,22 @@
+index: get('/*', token.check
+hiddenTest: get('/hidden', token.check
+
+user:
+	create: post('/api/account/create', 
+	update: put('/api/account', token.check
+	delete: delete('/api/account', token.check
+
+	login: post('/api/account/login'
+	logout: post('/api/account/logout', token.check
+
+transaction:
+
+	import: post('/api/transaction/import', token.check
+	export: post('/api/transaction/export', token.check
+
+	create: post('/api/transaction/create', token.check
+	update: put('/api/transaction/:_id', token.check
+	delete: delete('/api/transaction/:_id', token.check
+
+	getRange: get('/api/transaction/:_date_start/:_date_end', token.check
+

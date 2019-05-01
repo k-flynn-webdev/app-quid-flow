@@ -1,0 +1,4 @@
+Instructions:
+( app/project name )
+	( app files + wip resources )
+	( local cdn files ) - replace on export with build opts

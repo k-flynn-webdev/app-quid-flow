@@ -1,0 +1,59 @@
+
+:root {
+
+	--colour-bg: hsla(177, 8%, 53%, 1.0);
+	--colour-nav: hsla(177, 10%,35%, 1.0);
+	/*--colour-nav: hsla(177, 2%, 40%, 1.0);
+	--colour-nav-link: hsla(177, 2%, 40%, 1.0);
+	--colour-alt-bg: hsla(177, 8%, 20%, 1.0);
+
+	--colour-accent: hsla(158, 50%, 90%, 0.5);
+	--colour-accent-hover: hsla(158, 50%, 90%, .75);*/
+	--colour-panel: hsla(30, 10%, 96%, 1.0);
+	
+	--colour-input: hsla(177, 10%, 85%, 1.0);
+	--colour-input-pre: hsla(177, 10%, 92%, 1.0);
+	
+	--colour-button: hsla(177, 8%, 20%, 1.0);
+
+	--colour-shadow: hsla(177, 8%, 20%, 0.5);
+	
+	--colour-text-light: hsla(30, 10%, 96%, 1.0);
+	--colour-text-dark: hsla(177, 8%, 20%, 1.0);
+
+	--colour-text-positive: hsla(100, 40%, 50%, 1.0);
+	--colour-text-negative: hsla(1, 40%, 50%, 1.0);
+	
+	--colour-success: hsla(100, 35%, 80%, 1.0);
+	--colour-warning: hsla(50, 55%, 80%, 1.0);
+	--colour-error: hsla(1, 35%, 80%, 1.0);
+
+}
+
+.colour-positive-bg {
+	background-color: var( --colour-text-positive ) !important;
+}
+.colour-negative-bg {
+	background-color: var( --colour-text-negative ) !important;
+}
+
+.colour-yellow {
+	background-color: hsl(40,75%,55%) !important;
+}
+	
+.shade {
+	background-color: hsla(177, 8%, 20%, 0.75);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

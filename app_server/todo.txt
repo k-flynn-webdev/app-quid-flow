@@ -1,0 +1,33 @@
+
+
+javascript front end to SPA this thing!
+
+	javascript collect token and pass into memory?
+	javascript fetch of all pages in bg
+	javascript go to each page on click without complete reload
+
+
+db separation
+
+
+
+server log needs times and ips?
+need unique visior count possibly?
+data served count?
+
+signup count
+
+Add goals and achievments to user accounts
+
+eg best day/month since xxx
+
+
+
+
+better way to calculate days from date in int:
+let day_seconds = 86400000;
+				let date_from = Math.ceil( (new Date('2019-01-11T13:33:09.648Z').getTime()) / day_seconds);
+				let today_int = Math.ceil( (new Date().getTime()) / day_seconds);
+
+
+				let day_int = today_int - date_from;
